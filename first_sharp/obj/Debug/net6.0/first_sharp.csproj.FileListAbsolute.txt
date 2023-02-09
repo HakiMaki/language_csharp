@@ -1,0 +1,15 @@
+/Users/hakimazisov/sharp/first_sharp/bin/Debug/net6.0/first_sharp
+/Users/hakimazisov/sharp/first_sharp/bin/Debug/net6.0/first_sharp.deps.json
+/Users/hakimazisov/sharp/first_sharp/bin/Debug/net6.0/first_sharp.runtimeconfig.json
+/Users/hakimazisov/sharp/first_sharp/bin/Debug/net6.0/first_sharp.dll
+/Users/hakimazisov/sharp/first_sharp/bin/Debug/net6.0/first_sharp.pdb
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/first_sharp.csproj.AssemblyReference.cache
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/first_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/first_sharp.AssemblyInfoInputs.cache
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/first_sharp.AssemblyInfo.cs
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/first_sharp.csproj.CoreCompileInputs.cache
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/first_sharp.dll
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/refint/first_sharp.dll
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/first_sharp.pdb
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/first_sharp.genruntimeconfig.cache
+/Users/hakimazisov/sharp/first_sharp/obj/Debug/net6.0/ref/first_sharp.dll
